@@ -1,0 +1,17 @@
+1.- Mejorar el uso de los elementos html, para la semantica
+
+    no abusar del uso de los divs, sino utilizar etiquetas semanticas como <article> <section> <main>
+    
+    Ejemplo:
+
+    El contenedor principal puede ser cambiado por <main> pues ahí está todo el contenido principal de la página.
+    Y cada album puede ser cambiado por la etiqueta <article> 
+
+2.- Mejorar la accesibilidad
+
+    los "alt" de las imagenes tienen que ser descripciones significativas.
+
+
+3.- Optimizar imagenes
+
+    optimizar imagenes con herramientas como "tinyPNG"

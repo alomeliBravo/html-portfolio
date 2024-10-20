@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 100vh;
+    margin: 0;
+}
+
+.centered-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered-image img{
+    display: block;
+    max-width: 640px;
+    height: auto;
+}
+
+.album-name{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.album-name{
+    color: #FCC89B;
+}
+
+.album-name:hover{
+    color: #FF5FA2;
+}
+
+.song-list{
+    padding-left: 25px;
+}
+
+.songs{
+    margin-top: 10px;
+    text-align: left;
+}
+
+.main-content{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    width: 100%;
+    height: 640px;
+    text-align: center;
+}
+
+.album-history{
+    margin-top: -2px;
+    margin-left: 10px;
+    width: 320px;
+
+}
+
+.album-history__paragraph{
+    text-align: justify;
+}
+
+.album-title{
+    margin: 0;
+    padding: 30px;
+}
+
+.title-ewo:hover{
+    color: #464347;
+}
+
+.eyes-wide-open-album{
+    background-color: #BCB7B2;
+}
+
+.formula-of-love-album{
+    background-color: #9EB5D0;
+}
+
+.taste-of-love-album{
+    background-color: #F8F7EB;
+}
+
+.with-youth-album{
+    background-color: #E64832;
+}
+
+.album-songs{
+    width: 320px;
+}
+
+.title-fol:hover{
+    color: #1D4353;
+}
+
+.title-tol:hover{
+    color: #1D4495;
+}
+
+.title-wy:hover{
+    color: #E7E0D9;
+}
+
+.album{
+    width: 640px;
+    height: 640px;
+    margin-left: 530px;
+}
